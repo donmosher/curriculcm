@@ -1,0 +1,52 @@
+.header{
+  width:400px;
+  height: 100px;
+  background-color: #141f40;
+}
+
+
+/*.main{
+  width: 400px;
+  height: 250px;
+  background-color: red;
+}*/
+
+.left {
+  width: 150px;
+  height: 50px;
+  background-color: #dbd400;
+  float: left;
+}
+
+.left {
+  width: 150px;
+  height: 100px;
+  background-color: #0093b7;
+  float: left;
+}
+
+.rigth{
+  width:100px;
+  height: 250px;
+  background-color: #ff9e6b;
+  float: left;
+}
+
+rigth{
+width:250px;
+height: 100px;
+background-color: #8c2727;
+float: left;
+}
+
+.footer {
+  width: 400px;
+  height: 100px;
+  background-color: #d98d30;
+}
+
+
+
+
+
+
